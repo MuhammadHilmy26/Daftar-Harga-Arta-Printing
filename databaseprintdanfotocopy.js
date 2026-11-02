@@ -13,7 +13,7 @@ const dataBarang = [
   { no: 12, kategori: "Print", ukuran: "A3+", jenisKertas: "Glossy", hitamPutih: 10000, warna30ke50: 10000, warna60ke100: 0, bolakBalik: "x2" },
   { no: 13, kategori: "Print", ukuran: "A3", jenisKertas: "Sticker (Bontax)", hitamPutih: 6000, warna30ke50: 7000, warna60ke100: 0, bolakBalik: "x2" },
   { no: 14, kategori: "Print", ukuran: "A3", jenisKertas: "Sticker + Cutting", hitamPutih: 20000, warna30ke50: "Include Cutting", warna60ke100: 0, bolakBalik: "x2" },
-  { no: 15, kategori: "Print", ukuran: "A3/Vinyl", jenisKertas: "Sticker + Cutting", hitamPutih: 25000, warna30ke50: "Include Cutting", warna60ke100: 0, bolakBalik: "x2" },
+  { no: 15, kategori: "Print", ukuran: "A3 Vinyl", jenisKertas: "Sticker + Cutting", hitamPutih: 25000, warna30ke50: "Include Cutting", warna60ke100: 0, bolakBalik: "x2" },
   { no: 16, kategori: "Print Foto", ukuran: "2x3 / 9 Lembar", jenisKertas: "Silky/Doff", hitamPutih: 5000, warna30ke50: 5000, warna60ke100: 0, bolakBalik: "x2" },
   { no: 17, kategori: "Print Foto", ukuran: "3x4 / 6 Lembar", jenisKertas: "Silky/Doff", hitamPutih: 5000, warna30ke50: 5000, warna60ke100: 0, bolakBalik: "x2" },
   { no: 18, kategori: "Print Foto", ukuran: "4x6 / 4 Lembar", jenisKertas: "Silky/Doff", hitamPutih: 5000, warna30ke50: 5000, warna60ke100: 0, bolakBalik: "x2" },
