@@ -33,5 +33,5 @@ const dataBarang = [
   { no: 32, kategori: "Fotocopy", ukuran: "7-10/F4", jenisKertas: "HVS/Dua sisi", hitamPutih: 2000, warna30ke50: 0, warna60ke100: 0, bolakBalik: "x2" },
   { no: 33, kategori: "Fotocopy", ukuran: "A4", jenisKertas: "HVS/Satu Sisi/COD", hitamPutih: 1000/3, warna30ke50: 0, warna60ke100: 0, bolakBalik: "x2" },
   { no: 34, kategori: "Fotocopy", ukuran: "A4", jenisKertas: "HVS/Dua sisi/COD", hitamPutih: 1000/2, warna30ke50: 0, warna60ke100: 0, bolakBalik: "x2" },
-  { no: 35, kategori: "Print", ukuran: "A4", jenisKertas: "HVS/Satu Sisi/COD", hitamPutih: 700/1000 plus Permen, warna30ke50: 1000, warna60ke100: 1500 - 2000, bolakBalik: "x2" }
+  { no: 35, kategori: "Print", ukuran: "A4", jenisKertas: "HVS/Satu Sisi/COD", hitamPutih: 700/1000, warna30ke50: 1000, warna60ke100: 1500 - 2000, bolakBalik: "x2" }
 ];
